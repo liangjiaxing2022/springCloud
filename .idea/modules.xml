@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" filepath="$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_consumer_pt/eureka_consumer_pt.iml" filepath="$PROJECT_DIR$/eureka_consumer_pt/eureka_consumer_pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider/eureka_provider.iml" filepath="$PROJECT_DIR$/eureka_provider/eureka_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider_feign_pt/eureka_provider_feign_pt.iml" filepath="$PROJECT_DIR$/eureka_provider_feign_pt/eureka_provider_feign_pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider_pt/eureka_provider_pt.iml" filepath="$PROJECT_DIR$/eureka_provider_pt/eureka_provider_pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider_zone_gz/eureka_provider_zone_gz.iml" filepath="$PROJECT_DIR$/eureka_provider_zone_gz/eureka_provider_zone_gz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_provider_zone_gz2/eureka_provider_zone_gz2.iml" filepath="$PROJECT_DIR$/eureka_provider_zone_gz2/eureka_provider_zone_gz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ha_eureka_peer1/ha_eureka_peer1.iml" filepath="$PROJECT_DIR$/ha_eureka_peer1/ha_eureka_peer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ha_eureka_peer2/ha_eureka_peer2.iml" filepath="$PROJECT_DIR$/ha_eureka_peer2/ha_eureka_peer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-api/hello-service-api.iml" filepath="$PROJECT_DIR$/hello-service-api/hello-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" filepath="$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuth_one/sleuth_one.iml" filepath="$PROJECT_DIR$/sleuth_one/sleuth_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuth_two/sleuth_two.iml" filepath="$PROJECT_DIR$/sleuth_two/sleuth_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud.iml" filepath="$PROJECT_DIR$/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_bus/spring_cloud_bus.iml" filepath="$PROJECT_DIR$/spring_cloud_bus/spring_cloud_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_consumer_group/spring_cloud_stream_consumer_group.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_consumer_group/spring_cloud_stream_consumer_group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_feedback/spring_cloud_stream_feedback.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_feedback/spring_cloud_stream_feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_pt/spring_cloud_stream_pt.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_pt/spring_cloud_stream_pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

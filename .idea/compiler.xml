@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config_client" />
+        <module name="config_server" />
+        <module name="eureka-server" />
+        <module name="eureka_consumer" />
+        <module name="eureka_consumer_pt" />
+        <module name="eureka_provider" />
+        <module name="eureka_provider_pt" />
+        <module name="eureka_provider_zone" />
+        <module name="eureka_provider_zone_gz" />
+        <module name="eureka_provider_zone_gz2" />
+        <module name="feign" />
+        <module name="ha_eureka_peer1" />
+        <module name="ha_eureka_peer2" />
+        <module name="hello-service-api" />
+        <module name="hystrix" />
+        <module name="ribbonconsumer" />
+        <module name="sleuth_one" />
+        <module name="sleuth_two" />
+        <module name="spring_cloud_bus" />
+        <module name="spring_cloud_stream" />
+        <module name="spring_cloud_stream_consumer_group" />
+        <module name="spring_cloud_stream_feedback" />
+        <module name="spring_cloud_stream_pt" />
+        <module name="zipkinserver" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config_client" target="1.8" />
+      <module name="config_server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka_consumer" target="1.8" />
+      <module name="eureka_consumer_pt" target="1.8" />
+      <module name="eureka_provider" target="1.8" />
+      <module name="eureka_provider_pt" target="1.8" />
+      <module name="eureka_provider_zone" target="1.8" />
+      <module name="eureka_provider_zone (1)" target="1.8" />
+      <module name="eureka_provider_zone_gz" target="1.8" />
+      <module name="eureka_provider_zone_gz2" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="ha_eureka_peer1" target="1.8" />
+      <module name="ha_eureka_peer2" target="1.8" />
+      <module name="hello-service-api" target="1.8" />
+      <module name="hystrix" target="1.8" />
+      <module name="ribbonconsumer" target="1.8" />
+      <module name="sleuth_one" target="1.8" />
+      <module name="sleuth_two" target="1.8" />
+      <module name="spring_cloud_bus" target="1.8" />
+      <module name="spring_cloud_stream" target="1.8" />
+      <module name="spring_cloud_stream_consumer_group" target="1.8" />
+      <module name="spring_cloud_stream_feedback" target="1.8" />
+      <module name="spring_cloud_stream_pt" target="1.8" />
+      <module name="zipkinserver" target="1.8" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
