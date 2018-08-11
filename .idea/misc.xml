@@ -28,6 +28,7 @@
         <option value="$PROJECT_DIR$/spring_cloud_stream_pt/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_feedback/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_consumer_group/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_rabbitmq/pom.xml" />
       </list>
     </option>
   </component>
