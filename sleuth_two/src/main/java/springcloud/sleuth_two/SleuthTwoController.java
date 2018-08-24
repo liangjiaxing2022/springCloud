@@ -12,6 +12,8 @@ public class SleuthTwoController {
     @RequestMapping(value = "/trace-2",method = RequestMethod.GET)
     public String trace(){
         logger.info("========<call trace-2>=======");
+
+
         return "Trace";
     }
 

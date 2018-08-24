@@ -14,7 +14,7 @@ import org.springframework.cloud.stream.messaging.Sink;
 public class SinkReceiver {
     private static Logger logger = LoggerFactory.getLogger(SinkReceiver.class);
 
-    @StreamListener(Sink.INPUT)
+    @StreamListener("shendu_input")
     public void receive(String s){
         logger.info("received: "+s);
     }

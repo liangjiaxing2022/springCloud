@@ -2,7 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_client_bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_server_bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka_consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka_consumer_pt" charset="UTF-8" />
@@ -23,7 +25,11 @@
     <file url="file://$PROJECT_DIR$/spring_cloud_bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_stream_consumer_group" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_stream_feedback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_stream_partition_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_stream_partition_consumer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_stream_partition_sender" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_stream_pt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin_server_mysql" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zipkinserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
   </component>

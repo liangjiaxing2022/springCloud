@@ -29,6 +29,12 @@
         <option value="$PROJECT_DIR$/spring_cloud_stream_feedback/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_consumer_group/pom.xml" />
         <option value="$PROJECT_DIR$/spring_boot_rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/config_client_bus/pom.xml" />
+        <option value="$PROJECT_DIR$/config_server_bus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_stream_partition/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_stream_sender/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_stream_partition_consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin_server_mysql/pom.xml" />
       </list>
     </option>
   </component>

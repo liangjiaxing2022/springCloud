@@ -14,12 +14,12 @@ import org.springframework.messaging.support.GenericMessage;
 
 import java.util.Date;
 
-@EnableBinding(value = {Processor.class})
+@EnableBinding(value = {SinkSender.class})
 public class App2 {
     private static Logger logger = LoggerFactory.getLogger(App2.class);
 
     @Bean
-    @InboundChannelAdapter(value = Processor.OUTPUT,poller = @Poller(fixedDelay = "2000"))
+    @InboundChannelAdapter(value = "shendu_output",poller = @Poller(fixedDelay = "2000"))
     public MessageSource<Date> timerMessageSource(){
         return  new MessageSource<Date>() {
             @Override
@@ -29,7 +29,7 @@ public class App2 {
         };
     }
 
-    @StreamListener(Processor.INPUT)
+    @StreamListener("shendu_input")
     public void receiveFromOutput(Object payload){
         logger.info("Received: "+payload);
     }

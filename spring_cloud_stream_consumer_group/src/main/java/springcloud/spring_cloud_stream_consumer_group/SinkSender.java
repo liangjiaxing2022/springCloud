@@ -22,7 +22,7 @@ public class SinkSender {
     private static Logger logger = LoggerFactory.getLogger(SinkSender.class);
 
     @Bean
-    @InboundChannelAdapter(value = Processor.OUTPUT,poller = @Poller(fixedDelay = "2000"))
+    @InboundChannelAdapter(value = "shendu_input",poller = @Poller(fixedDelay = "2000"))
     public MessageSource<String> timerMessageSource(){
         return  new MessageSource<String>() {
             @Override

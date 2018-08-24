@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_client_bus/config_client_bus.iml" filepath="$PROJECT_DIR$/config_client_bus/config_client_bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server_bus/config_server_bus.iml" filepath="$PROJECT_DIR$/config_server_bus/config_server_bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" filepath="$PROJECT_DIR$/eureka_consumer/eureka_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_consumer_pt/eureka_consumer_pt.iml" filepath="$PROJECT_DIR$/eureka_consumer_pt/eureka_consumer_pt.iml" />
@@ -26,8 +28,12 @@
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_bus/spring_cloud_bus.iml" filepath="$PROJECT_DIR$/spring_cloud_bus/spring_cloud_bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_consumer_group/spring_cloud_stream_consumer_group.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_consumer_group/spring_cloud_stream_consumer_group.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_feedback/spring_cloud_stream_feedback.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_feedback/spring_cloud_stream_feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_partition_consumer/spring_cloud_stream_partition_consumer.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_partition_consumer/spring_cloud_stream_partition_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_partition_consumer2/spring_cloud_stream_partition_consumer2.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_partition_consumer2/spring_cloud_stream_partition_consumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_partition_sender/spring_cloud_stream_partition_sender.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_partition_sender/spring_cloud_stream_partition_sender.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_stream_pt/spring_cloud_stream_pt.iml" filepath="$PROJECT_DIR$/spring_cloud_stream_pt/spring_cloud_stream_pt.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_provider_feign_pt/src/test/test.iml" filepath="$PROJECT_DIR$/eureka_provider_feign_pt/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin_server_mysql/zipkin_server_mysql.iml" filepath="$PROJECT_DIR$/zipkin_server_mysql/zipkin_server_mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
     </modules>
